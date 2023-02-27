@@ -5,6 +5,7 @@ on:
       - https://afterschool2021.substack.com/feed
       - https://rsshub.app/zhubai/simpread
       - https://www.bmpi.dev/index.xml
+      - https://decoder.cloud/feed/
 jobs:
   request:
     name: Make a HTTP Request
