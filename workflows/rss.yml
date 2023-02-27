@@ -12,7 +12,7 @@ on:
       - https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss
       - https://itm4n.github.io/feed.xml
       - https://www.sentinelone.com/feed/
-      
+   
       
 jobs:
   request:
