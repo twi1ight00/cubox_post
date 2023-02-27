@@ -6,6 +6,9 @@ on:
       - https://rsshub.app/zhubai/simpread
       - https://www.bmpi.dev/index.xml
       - https://decoder.cloud/feed/
+      - https://tttang.com/rss.xml
+      - https://bloghub.fun/feeds
+      - https://rss.simpread.pro/zhihu
 jobs:
   request:
     name: Make a HTTP Request
